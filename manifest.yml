@@ -1,0 +1,6 @@
+---
+applications:
+- name: berlin-gallery
+  memory: 512M
+  instances: 1
+  # random-route: true
